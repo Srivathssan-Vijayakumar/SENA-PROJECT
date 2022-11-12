@@ -5,3 +5,5 @@ The following analysis has been made
     1. Average salary analysis : to find the department and specialisation that has the highest average salary
     2. Highest Placement Percentage : To find the department - specialisation with the highest placement percentage
 These analysis helps a student in choosing a department and specialisation
+
+DEMO VIDEO LINK:https://drive.google.com/file/d/1MJwunGIuc32Q2AysvNgwiatex-u4u__Z/view?usp=sharing
